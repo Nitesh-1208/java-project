@@ -1,0 +1,4 @@
+Monday | 10:00 AM - 11:00 AM | Mathematics | Mr. Sharma
+Monday | 11:00 AM - 12:00 PM | Science | Ms. Kapoor
+Tuesday | 9:00 AM - 10:00 AM | English | Mr. Verma
+Wednesday | 12:00 PM - 1:00 PM | Chemistry | Ms. Das
